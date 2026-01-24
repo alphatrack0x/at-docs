@@ -1,0 +1,75 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Alpha Track",
+  "logo": {
+    "dark": "/logo/logo-dark.png",
+    "light": "/logo/logo-light.png"
+  },
+  "favicon": "/favicon.png",
+  "colors": {
+    "primary": "#00D4FF",
+    "light": "#00D4FF",
+    "dark": "#00D4FF",
+    "anchors": {
+      "from": "#00D4FF",
+      "to": "#FF8C00"
+    },
+    "background": {
+      "dark": "#0A0A0F",
+      "light": "#FFFFFF"
+    }
+  },
+  "topbarLinks": [
+    {
+      "name": "Try Beta",
+      "url": "https://t.me/at_summarizer_bot"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Start Bot",
+    "url": "https://t.me/at_summarizer_bot"
+  },
+  "tabs": [],
+  "anchors": [
+    {
+      "name": "Telegram",
+      "icon": "telegram",
+      "url": "https://t.me/alphatrack_ann"
+    },
+    {
+      "name": "Twitter",
+      "icon": "x-twitter",
+      "url": "https://x.com/alphatrack0x"
+    },
+    {
+      "name": "Support",
+      "icon": "comments",
+      "url": "https://t.me/alphatrack_official"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": [
+        "introduction",
+        "quick-start",
+        "categories"
+      ]
+    },
+    {
+      "group": "Learn More",
+      "pages": [
+        "roadmap",
+        "whitepaper"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "x": "https://x.com/alphatrack0x",
+    "telegram": "https://t.me/alphatrack_ann"
+  },
+  "backgroundImage": "/background.png",
+  "modeToggle": {
+    "default": "dark"
+  }
+}
