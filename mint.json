@@ -19,12 +19,6 @@
       "light": "#FFFFFF"
     }
   },
-  "topbarLinks": [
-    {
-      "name": "Try Beta",
-      "url": "https://t.me/at_summarizer_bot"
-    }
-  ],
   "topbarCtaButton": {
     "name": "Start Bot",
     "url": "https://t.me/at_summarizer_bot"
