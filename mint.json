@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Alpha Track",
   "logo": {
-    "dark": "/logo/logo-dark.png",
-    "light": "/logo/logo-light.png"
+    "dark": "/logo/logo-dark.jpeg",
+    "light": "/logo/logo-light.jpeg"
   },
-  "favicon": "/favicon.png",
+  "favicon": "/favicon.jpeg",
   "colors": {
     "primary": "#00D4FF",
     "light": "#00D4FF",
