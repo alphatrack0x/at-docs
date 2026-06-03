@@ -1,149 +1,222 @@
 ---
 title: "What is Alpha Track?"
-description: "Your crypto intelligence, delivered daily"
+description: "Project-level crypto intelligence. Track the projects you care about and know what the whole market thinks."
 ---
 
 # What is Alpha Track?
 
-**50 Telegram channels. 4 personalized reports. Zero noise.**
+**Track your projects. Know what the market thinks. Across every platform, in every language.**
 
 ---
 
 ## The Problem
 
-You follow dozens of crypto channels. Influencers, projects, alpha callers, DeFi protocols. Every notification could be the next 100x or just another shill. You can't read everything. You can't ignore everything. You're stuck choosing between FOMO and information overload.
+Crypto doesn't have an information problem. It has an intelligence problem.
 
-**50% spam. 40% irrelevant. 10% actually matters.** And by the time you find that 10%? It's too late.
+The information is everywhere — Telegram, Twitter, Discord, news sites, forums, research blogs. Thousands of sources, zero structure. You follow dozens of them, read a fraction, and end up making decisions on fragments. You catch one influencer's take and miss ten others. You react to the loudest voice instead of the actual signal.
+
+Institutions solved this years ago. Research teams monitoring sentiment across platforms, languages, and regions around the clock. Six-figure data subscriptions. They see the whole picture. You see a feed.
+
+**That's the gap. We're closing it.**
 
 ---
 
 ## The Solution
 
-Alpha Track is your AI-powered crypto intelligence platform. We read your Telegram channels so you don't have to.
+Alpha Track is a crypto intelligence platform. Not a news feed. Not another aggregator that hands you more to read.
 
-**Here's how it works:**
+You tell us which projects, tokens, and companies you care about. We scan the entire internet for everything being said about them, strip out the noise, classify what's left, and tell you what the market actually thinks — right now.
 
-<Steps>
-  <Step title="Connect your channels">
-    Add the Telegram channels you follow but can't keep up with
-  </Step>
-  <Step title="AI categorizes everything">
-    Our AI reads, filters spam, and sorts content by topic
-  </Step>
-  <Step title="Daily reports with only what matters">
-    Get 4 personalized digests with just the categories you care about
-  </Step>
-  <Step title="Sources linked for deep dives">
-    Every insight links to the original message - verify anything
-  </Step>
-</Steps>
+**Add a project to your watchlist — we find every mention across the internet — AI classifies and scores it — you see the aggregate signal.**
 
-No spam. No noise. Just signal.
+No more guessing whether that bearish thread is the consensus or just one loud account. No more missing a sentiment shift because it happened in a Chinese-language channel you don't read. Your watchlist becomes your intelligence feed.
 
-We scrape thousands of messages daily, filter out the garbage, categorize the good stuff, and deliver personalized reports based on what you actually want to read. Choose your categories (Influencer Insights, DeFi Activities, Global Market View, etc.) and get exactly that.
-
-**In English, Russian, or Ukrainian.**
+**Read anything, anywhere. Get intelligence in English, Russian, or Ukrainian.**
 
 ---
 
-## Beyond Summaries
+## How It Works
 
-We're not building another news aggregator. We're building crypto intelligence.
+<Steps>
+  <Step title="Universal collection">
+    We scan continuously across Telegram, Twitter, Discord, news, blogs, and forums — in any language. If someone's talking about your project, we find it.
+  </Step>
 
-Alpha Track analyzes sentiment across languages and regions. We track what influencers really think, not just what they post. We spot alpha through anomalies - when a message gets 10x more reactions in the first 5 minutes, you know something's up.
+  <Step title="Intelligent filtering">
+    AI removes spam, promos, scams, and repetition before anything reaches you. Only substantive content survives.
+  </Step>
 
-<Note>
-**The vision:** Your personal AI research assistant that understands crypto, speaks every language, and delivers insights - not just information.
+  <Step title="Multi-dimensional classification">
+    Every signal gets tagged by type — fact, opinion, or emotion — and scored on sentiment, bullish to bearish.
+  </Step>
 
-Think Bloomberg Terminal, but AI-driven, decentralized, and built for everyone.
-</Note>
+  <Step title="Aggregated intelligence">
+    Thousands of classified signals become one clear picture: what the market thinks about your project, and whether that's shifting.
+  </Step>
+
+  <Step title="Personalized delivery">
+    Daily digests, real-time alerts, or dashboard views. Every insight links back to its source so you can verify and decide for yourself.
+  </Step>
+</Steps>
+
+---
+
+## Your Portfolio Is Your Intelligence Feed
+
+This is the heart of the platform.
+
+You hold ten tokens. You're evaluating five more. Instead of chasing each one across a dozen channels, you add them to a watchlist and let the intelligence come to you.
+
+<CardGroup cols={2}>
+  <Card title="Track sentiment per project" icon="chart-line">
+    Bullish vs bearish ratio for every project you follow, and how it's moved over the past week.
+  </Card>
+
+  <Card title="Spot divergences early" icon="arrows-split-up-and-left">
+    When facts are neutral but emotions are euphoric, or influencers turn bearish while the community stays bullish — that's the signal funds catch and retail misses.
+  </Card>
+
+  <Card title="Measure conviction, not just direction" icon="scale-balanced">
+    Is the bullishness reasoned analysis or just rocket emojis? Conviction depth tells you which signals to trust.
+  </Card>
+
+  <Card title="One view per project" icon="layer-group">
+    Facts, opinions, emotions, sentiment trend, and source breakdown — everything about a project in one place.
+  </Card>
+</CardGroup>
+
+This is the research function VCs and funds have had for years. We're making it accessible to everyone.
+
+---
+
+## Facts, Opinions, Emotions
+
+Knowing *what type* of information you're consuming matters as much as the information itself.
+
+A mainnet launch is a **fact**. An analyst saying "this is undervalued because..." is an **opinion**. A channel flooding the feed with rocket emojis is an **emotion**.
+
+Facts are the foundation. Opinions reveal conviction and how it shifts. Emotions are the most volatile — and often the most predictive of short-term moves. Euphoria before a dump. Fear before a recovery.
+
+By separating these layers, Alpha Track shows you something no other tool does: whether a project is riding genuine analysis or pure hype.
 
 ---
 
 ## Who Is This For?
 
 <CardGroup cols={2}>
-  <Card title="Traders" icon="chart-line">
-    Who need market moves, not Twitter threads
+  <Card title="Traders & Investors" icon="chart-line">
+    Track the projects you hold or are eyeing. Know if bullish consensus is building or collapsing before it shows up in price.
   </Card>
-  <Card title="Investors" icon="piggy-bank">
-    Who track projects, not influencer drama
+
+  <Card title="Influencers & Analysts" icon="microphone">
+    Your best work gets lost competing with memes and spam. Here it's classified as substance and surfaced to people who opted in to track what you cover — with a track record that becomes visible over time.
   </Card>
-  <Card title="Airdrop Hunters" icon="parachute-box">
-    Who catch opportunities, not spam
+
+  <Card title="Funds & VCs" icon="building-columns">
+    Monitor any number of projects across languages and regions. The intelligence of a full research team, automated and continuous.
   </Card>
-  <Card title="VCs and Funds" icon="building-columns">
-    Who need intelligence, not noise
+
+  <Card title="Builders & Projects" icon="screwdriver-wrench">
+    See what the market really thinks about your project — and your competitors — across every platform.
   </Card>
 </CardGroup>
 
-**Anyone** who follows crypto but can't read 50 channels daily.
+**Anyone** who participates in crypto and is tired of deciding on fragments.
 
 ---
 
-## What You Get
+## What's Live Today
+
+The Telegram Intelligence Engine is live and the foundation is proven.
 
 <AccordionGroup>
-  <Accordion title="Personalized daily reports" icon="newspaper">
-    From YOUR channels - not random sources we picked
+  <Accordion title="Telegram intelligence engine" icon="telegram">
+    Connect the channels you follow and get AI-processed digests — collection, spam filtering, and categorization, proven and operational.
   </Accordion>
-  <Accordion title="AI categorization" icon="robot">
-    Only read what matters to you - choose your categories
+
+  <Accordion title="6-category classification" icon="robot">
+    Influencer Insights, Activities, Global Market View, Exchange Promos, Summaries, IDO. Choose what matters and get only that.
   </Accordion>
+
   <Accordion title="99% spam filtering" icon="filter">
-    We've done this part - you see signal, not noise
+    AI removes noise automatically, with near-perfect accuracy.
   </Accordion>
-  <Accordion title="Source links" icon="link">
-    Every insight links to original message - verify anything
+
+  <Accordion title="Universal language coverage" icon="globe">
+    Read channels in any language, get intelligence in EN/RU/UA.
   </Accordion>
-  <Accordion title="Multi-language support" icon="globe">
-    EN/RU/UA output - read ANY language channel
+
+  <Accordion title="4 daily digests" icon="clock">
+    Morning, midday, evening, night. Structured reports, not raw content.
   </Accordion>
-  <Accordion title="4 reports daily" icon="clock">
-    Stay updated without staying glued to your phone
+
+  <Accordion title="Source linking" icon="link">
+    Every insight links back to the original message. Verify anything.
   </Accordion>
 </AccordionGroup>
 
+<Note>
+  Telegram is where we started and what's live now. It's the first input into a much bigger platform — project-level tracking across the entire internet is in active development.
+</Note>
+
 ---
 
-## The Future
+## What's Coming
 
-We're in beta. The platform works. But this is just the beginning.
+<CardGroup cols={2}>
+  <Card title="Project & token tracking" icon="bullseye">
+    Watchlists that pull intelligence from everywhere, not just your channels. (Q3 2026)
+  </Card>
 
-**Coming soon:**
-- Sentiment tracking across projects and influencers
-- Keyword following (track any project by ticker or name)
-- Alpha alerts when anomalies hit
-- AI chat for crypto research
-- Recommendation system for discovering new channels
+  <Card title="Twitter integration" icon="x-twitter">
+    Same classification applied to Twitter. Cross-platform synthesis in one view. (Q3 2026)
+  </Card>
 
-**Long-term vision:**
-A crypto intelligence platform where you can ask any question about any project, see real-time sentiment from every region and language, and get AI-powered research that saves hours.
+  <Card title="Sentiment dashboard" icon="gauge-high">
+    Bullish vs bearish at a glance, with trends and divergence alerts. (Q3 2026)
+  </Card>
 
-Information overload is broken. We're fixing it.
+  <Card title="Alpha alerts" icon="bell">
+    Real-time notifications when sentiment shifts or something breaks. (Q4 2026)
+  </Card>
 
-<Card title="See Full Roadmap" icon="road" href="/roadmap">
-  Check out what we're building and when
+  <Card title="Full internet coverage" icon="network-wired">
+    Discord, Reddit, news, forums, Farcaster — every source people discuss crypto. (Q4 2026 / Q1 2027)
+  </Card>
+
+  <Card title="AI research assistant" icon="message-bot">
+    Ask anything: "What does the market think about Arbitrum right now?" (2028+)
+  </Card>
+</CardGroup>
+
+**The long-term vision:** the intelligence layer every crypto participant checks before making a decision. AI-driven, accessible to everyone.
+
+<Card title="See the Full Roadmap" icon="road" href="/roadmap">
+  Where we are and where we're going, quarter by quarter
 </Card>
 
 ---
 
 ## Ready?
 
-Join early beta testers shaping the future of crypto intelligence.
+Join the users shaping crypto intelligence.
 
 <CardGroup cols={3}>
   <Card title="Start Bot" icon="telegram" href="https://t.me/at_summarizer_bot">
-    Join the beta and get your first digest
+    Get your first digest today
   </Card>
+
   <Card title="Category Guide" icon="list" href="/categories">
-    See what topics you can track
+    See what you can track today
   </Card>
+
   <Card title="Whitepaper" icon="file-lines" href="/whitepaper">
-    Deep dive into what we're building
+    The full thesis and platform breakdown
   </Card>
 </CardGroup>
 
 ---
 
 *Built by crypto natives, for crypto natives. No suits. No corporate BS. Just builders creating tools we actually need.*
+
+*Track what matters. Know what the market thinks. Make better decisions.*
