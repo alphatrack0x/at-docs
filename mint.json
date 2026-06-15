@@ -19,9 +19,15 @@
       "light": "#FFFFFF"
     }
   },
+  "topbarLinks": [
+    {
+      "name": "Try Beta",
+      "url": "https://t.me/alphatrack_ai_bot"
+    }
+  ],
   "topbarCtaButton": {
     "name": "Start Bot",
-    "url": "https://t.me/at_summarizer_bot"
+    "url": "https://t.me/alphatrack_ai_bot"
   },
   "tabs": [],
   "anchors": [

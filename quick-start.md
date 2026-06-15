@@ -13,7 +13,7 @@ description: "From zero to your first digest in 5 minutes"
 
 Alpha Track is currently in closed beta. Request access through our bot and we'll get you set up.
 
-<Card title="Start Bot" icon="telegram" href="https://t.me/at_summarizer_bot">
+<Card title="Start Bot" icon="telegram" href="https://t.me/alphatrack_ai_bot">
   Open in Telegram and hit Start
 </Card>
 

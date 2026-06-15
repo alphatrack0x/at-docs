@@ -119,6 +119,6 @@ Initial DEX Offerings and other primary token placements. ICOs, IEOs, public sal
 
 ---
 
-<Card title="Start Bot" icon="telegram" href="https://t.me/at_summarizer_bot">
+<Card title="Start Bot" icon="telegram" href="https://t.me/alphatrack_ai_bot">
   Ready to pick your categories? Start the bot
 </Card>

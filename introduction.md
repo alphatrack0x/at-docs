@@ -202,7 +202,7 @@ The Telegram Intelligence Engine is live and the foundation is proven.
 Join the users shaping crypto intelligence.
 
 <CardGroup cols={3}>
-  <Card title="Start Bot" icon="telegram" href="https://t.me/at_summarizer_bot">
+  <Card title="Start Bot" icon="telegram" href="https://t.me/alphatrack_ai_bot">
     Get your first digest today
   </Card>
 
