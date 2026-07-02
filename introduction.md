@@ -31,7 +31,7 @@ You tell us which projects, tokens, and companies you care about. We scan the en
 
 No more guessing whether that bearish thread is the consensus or just one loud account. No more missing a sentiment shift because it happened in a Chinese-language channel you don't read. Your watchlist becomes your intelligence feed.
 
-**Read anything, anywhere. Get intelligence in English, Russian, or Ukrainian.**
+**Read anything, anywhere. Get intelligence in English, Russian, Ukrainian, or Spanish.**
 
 ---
 
@@ -87,6 +87,14 @@ You hold ten tokens. You're evaluating five more. Instead of chasing each one ac
 
 This is the research function VCs and funds have had for years. We're making it accessible to everyone.
 
+<Note>
+Smart Portfolio v1 is live: track your projects and get digest reports on what the market says about them. Per-project stats and sentiment trends are rolling out next.
+</Note>
+
+<Card title="Smart Portfolio" icon="briefcase" href="/smart-portfolio">
+  How project tracking works
+</Card>
+
 ---
 
 ## Facts, Opinions, Emotions
@@ -127,11 +135,19 @@ By separating these layers, Alpha Track shows you something no other tool does: 
 
 ## What's Live Today
 
-The Telegram Intelligence Engine is live and the foundation is proven.
+The Telegram Intelligence Engine and Smart Portfolio v1 are live, and the foundation is proven.
 
 <AccordionGroup>
+  <Accordion title="Smart Portfolio" icon="briefcase">
+    Track the projects and tokens you care about — your digests report what the market is saying about them. Every new account starts with a free month of Pro.
+  </Accordion>
+
   <Accordion title="Telegram intelligence engine" icon="telegram">
     Connect the channels you follow and get AI-processed digests — collection, spam filtering, and categorization, proven and operational.
+  </Accordion>
+
+  <Accordion title="Alpha Agents message tags" icon="tags">
+    Every digest message tagged by type — ✅ fact, 🤔 opinion, 💨 hype — so you know what you're reading before you read it. Paid plans.
   </Accordion>
 
   <Accordion title="6-category classification" icon="robot">
@@ -143,7 +159,7 @@ The Telegram Intelligence Engine is live and the foundation is proven.
   </Accordion>
 
   <Accordion title="Universal language coverage" icon="globe">
-    Read channels in any language, get intelligence in EN/RU/UA.
+    Read channels in any language, get intelligence in EN/RU/UA/ES.
   </Accordion>
 
   <Accordion title="4 daily digests" icon="clock">
@@ -156,7 +172,7 @@ The Telegram Intelligence Engine is live and the foundation is proven.
 </AccordionGroup>
 
 <Note>
-  Telegram is where we started and what's live now. It's the first input into a much bigger platform — project-level tracking across the entire internet is in active development.
+  Telegram is where we started and what's live now. It's the first input into a much bigger platform — project tracking is live, and coverage across the entire internet is in active development.
 </Note>
 
 ---
@@ -164,8 +180,8 @@ The Telegram Intelligence Engine is live and the foundation is proven.
 ## What's Coming
 
 <CardGroup cols={2}>
-  <Card title="Project & token tracking" icon="bullseye">
-    Watchlists that pull intelligence from everywhere, not just your channels. (Q3 2026)
+  <Card title="Per-project stats & narratives" icon="bullseye">
+    Mention momentum, sentiment trends per project, and narrative-level tracking. (Q3–Q4 2026)
   </Card>
 
   <Card title="Twitter integration" icon="x-twitter">
@@ -203,11 +219,11 @@ Join the users shaping crypto intelligence.
 
 <CardGroup cols={3}>
   <Card title="Start Bot" icon="telegram" href="https://t.me/alphatrack_ai_bot">
-    Get your first digest today
+    Get your first digest today — first month of Pro is free
   </Card>
 
-  <Card title="Category Guide" icon="list" href="/categories">
-    See what you can track today
+  <Card title="Smart Portfolio" icon="briefcase" href="/smart-portfolio">
+    Track your first project in a minute
   </Card>
 
   <Card title="Whitepaper" icon="file-lines" href="/whitepaper">

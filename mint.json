@@ -52,8 +52,15 @@
       "group": "Getting Started",
       "pages": [
         "introduction",
-        "quick-start",
-        "categories"
+        "quick-start"
+      ]
+    },
+    {
+      "group": "Product",
+      "pages": [
+        "smart-portfolio",
+        "categories",
+        "plans"
       ]
     },
     {

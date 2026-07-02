@@ -9,9 +9,9 @@ description: "From zero to your first digest in 5 minutes"
 
 ---
 
-## Join the Beta
+## Start the Bot
 
-Alpha Track is currently in closed beta. Request access through our bot and we'll get you set up.
+Open the bot and hit Start. Every new account gets a **full month of Pro, free** — no card, no strings. When the month ends you continue on the Free plan, and the projects you track stay active.
 
 <Card title="Start Bot" icon="telegram" href="https://t.me/alphatrack_ai_bot">
   Open in Telegram and hit Start
@@ -19,15 +19,28 @@ Alpha Track is currently in closed beta. Request access through our bot and we'l
 
 ---
 
-## Step 1: Tell Us About Yourself
+## Step 1: Add Your Projects
 
-When you first open the bot, we'll ask a couple quick questions about your crypto experience and what you're looking for (trading, research, airdrops, etc.). This helps us understand our users better - your answers don't affect how the product works.
+This is your Smart Portfolio — the heart of Alpha Track. Tell us which projects and tokens you actually care about.
+
+Type a name or ticker (like `arbitrum` or `SOL`) and pick the right match from the list. Your digests will report what the market is saying about each one — same AI processing as everything else, focused on your bags.
+
+- **Pro:** track up to 10 projects
+- **Free:** track up to 3
+
+<Note>
+In a hurry? Skip this step and add projects any time with `/projects`.
+</Note>
+
+<Card title="Smart Portfolio Guide" icon="briefcase" href="/smart-portfolio">
+  What project tracking gives you, in detail
+</Card>
 
 ---
 
 ## Step 2: Add Your Channels
 
-This is where the magic happens. Add the Telegram channels you normally read but don't have time to keep up with.
+Add the Telegram channels you normally read but don't have time to keep up with.
 
 Three ways to add channels:
 
@@ -38,14 +51,16 @@ Three ways to add channels:
 **Upload a list** - Have a bunch of channels? Send a .txt file with channel names, one per line.
 
 <Note>
-During beta you can add up to 20 public channels. Private channels aren't supported yet.
+Custom channels are a paid feature — Pro includes 5, Premium includes 100. Your free Pro month covers you from day one. Everyone also gets our curated market feed, so digests always have signal even with zero channels added.
 </Note>
+
+This step is skippable too — manage channels later with `/channels`.
 
 ---
 
 ## Step 3: Pick Your Categories
 
-After adding channels, you'll see category buttons. Choose what you actually want to read:
+Choose what you actually want to read:
 
 - **Influencer Insights** - Opinions, strategies, forecasts from traders
 - **Activities** - Airdrops, testnets, quests, DeFi opportunities
@@ -64,40 +79,41 @@ Pick as many or as few as you want. You can always change this later in settings
 
 ## Step 4: Set Your Digest Schedule
 
-Choose when you want to receive reports. We have four time slots:
+Choose when you want to receive reports. Four time slots:
 
-- 1:00 AM
-- 7:00 AM
-- 1:00 PM
-- 7:00 PM
+- ☀️ Morning Brief — 7:00
+- 🌤 Midday Check — 13:00
+- 🌙 Evening Wrap — 19:00
+- 🦉 Late Night — 1:00
 
-During beta you can pick anywhere from 1 to 4 reports per day. More reports = more frequent updates. Fewer reports = longer digests with more content each.
-
-We recommend starting with all 4 - you can always turn some off later once you find your rhythm.
+Pro lets you pick up to 4 digests per day; Free up to 2. More digests = more frequent updates. Fewer = longer digests with more content each.
 
 ---
 
 ## You're Done
 
-That's it. Your first digest will arrive at your next scheduled time. Each report contains only the categories you selected, with 90%+ spam already filtered out. Every insight links to the original message so you can dig deeper when needed.
+You'll see a preview digest right away so you know what's coming, and your first real digest arrives at your next scheduled slot. Spam is already filtered out, and every insight links to the original message so you can dig deeper when needed.
+
+On paid plans, every message also carries an Alpha Agents tag — ✅ fact, 🤔 opinion, 💨 hype — so you know what you're reading before you read it.
 
 ---
 
-## Changing Settings Later
+## Commands Cheat Sheet
 
-Everything lives under the `/menu` button:
+- `/menu` — main menu, everything lives here
+- `/portfolio` — your channels and tracked projects in one view
+- `/projects` — add or remove tracked projects
+- `/channels` — manage your channels
+- `/settings` — categories, schedule, language
 
-- Add or remove channels
-- Change categories
-- Adjust delivery times
-- View your current setup
+The bot speaks **English, Russian, Ukrainian, and Spanish** — it picks up your Telegram language automatically, and you can change it in settings.
 
 ---
 
 ## Tips
 
 <Tip>
-**Start with channels you actually follow but can't keep up with.** The value comes from filtering content you'd read anyway, not random channels.
+**Add the projects you hold first.** The fastest way to feel the value is seeing what the market says about your own bags.
 </Tip>
 
 <Tip>
@@ -105,7 +121,7 @@ Everything lives under the `/menu` button:
 </Tip>
 
 <Tip>
-**Give it a few days.** The first digest might feel light if your channels were quiet. After a few cycles you'll see the pattern.
+**Give it a few days.** The first digest might feel light if the market was quiet on your projects. After a few cycles you'll see the pattern.
 </Tip>
 
 ---

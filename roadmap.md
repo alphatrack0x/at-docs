@@ -7,7 +7,7 @@ description: "Building the Crypto Intelligence Platform"
 
 **Building the Crypto Intelligence Platform**
 
-*Last Updated: May 2026*
+*Last Updated: July 2026*
 *Living document, updated quarterly*
 
 ---
@@ -30,47 +30,53 @@ The entire platform is built and operated by AI agents. From collection to class
 
 ---
 
-## Where We Are Now (Q2 2026)
+## Where We Are Now (Q3 2026)
 
-### Live: Telegram Intelligence Engine
+### Live: Telegram Intelligence Engine + Smart Portfolio v1
 
 **What's Working:**
 
+- **Smart Portfolio.** Track the projects and tokens you care about — digests report what the market says about them. 3 projects on Free, 10 on Pro, 100 on Premium.
+- **Alpha Agents Message Tags.** Every digest message classified by type — fact, opinion, emotion — and tagged inline for paid tiers. The facts/opinions/emotions foundation is live in the product.
 - **Telegram Integration.** Connect public channels you follow and get AI-processed digests.
 - **6-Category Classification.** Influencer Insights, Activities, Global Market View, Exchange Promos, Summaries, IDO.
 - **99% Spam Filtering.** AI removes noise automatically with near-perfect accuracy.
-- **Universal Language Coverage.** Read channels in ANY language, get intelligence in English, Russian, or Ukrainian.
+- **Universal Language Coverage.** Read channels in ANY language, get intelligence in English, Russian, Ukrainian, or Spanish.
 - **4 Daily Digests.** Morning, midday, evening, night. Structured reports, not raw content.
 - **Source Linking.** Every insight links to original message for verification.
-- **Category Selection.** Choose which topics matter to you and receive only those.
+- **Subscriptions.** Free / Pro / Premium tiers, monthly or yearly, paid in Telegram Stars or crypto. Every new account starts with a free month of Pro.
 
 **Current Scale:**
-Processing 10,000+ messages daily across universal language input with English/Russian/Ukrainian output. Active beta with growing user base.
+Processing 10,000+ messages daily across universal language input with English/Russian/Ukrainian/Spanish output. Active beta with growing user base.
 
-### In Development Now: Project Intelligence Foundation
+### In Development Now: Per-Project Intelligence Depth
 
-This is the pivot from "read your channels" to "understand your projects."
+Watchlists and project reporting are live. Now we go deeper on each tracked project:
 
-**Facts / Opinions / Emotions Classification.** Every message gets classified by type. A mainnet launch is a fact. An influencer saying "this is undervalued" is an opinion. A community spamming rocket emojis is an emotion. You cannot do meaningful sentiment analysis without understanding what type of content you are analyzing first.
+**Per-Project Stats.** Mention momentum — how much the market talked about your project today vs yesterday — and sentiment trends over time.
 
-**Status:** Core models trained. Integration into live pipeline underway.
+**Narrative Tracking.** Follow themes and narratives ("AI agents", "RWA", "restaking"), not just individual tokens.
+
+**Bullish/Bearish Scoring.** Full sentiment direction on top of the live type classification.
+
+**Status:** Type classification live in digests. Per-project stats and narrative tracking in active development.
 
 ---
 
-## Phase 1: Project Level Intelligence (Q3 2026)
+## Phase 1: Project Level Intelligence (Q3–Q4 2026)
 
 *Focus: From categories to projects. From channels to the entire internet.*
 
 ### Project and Token Tracking
 
-**The core feature that transforms the platform.**
+**The core feature that transforms the platform — v1 shipped.**
 
 You add projects to your watchlist. We find everything the internet says about them. Not just your Telegram channels. Everything.
 
-- **Automatic extraction.** AI identifies tokens and project names across all content.
-- **Subject clustering.** All messages about the same project grouped into a single intelligence view.
-- **Dedicated project views.** See everything about a project in one place: facts, opinions, emotions, sentiment trend, source breakdown.
-- **Custom watchlists.** Track any project, token, or company. Your portfolio becomes your intelligence feed.
+- **Custom watchlists.** ✅ Live. Track any project or token; your portfolio becomes your intelligence feed.
+- **Automatic extraction.** ✅ Live. AI identifies tokens and project names across content.
+- **Per-project stats.** In development. Mention momentum, sentiment trends, day-over-day deltas.
+- **Dedicated project views.** In development. Everything about a project in one place: facts, opinions, emotions, sentiment trend, source breakdown.
 
 ### Twitter Integration
 
@@ -190,8 +196,8 @@ Backtest sentiment signals against price action. Build custom models. Automate a
 
 | Phase | Timeline | Key Milestone |
 |-------|----------|---------------|
-| Current | Q2 2026 | Telegram intelligence live, facts/opinions/emotions and bullish/bearish in development |
-| Phase 1 | Q3 2026 | Project tracking, Twitter integration, sentiment dashboard |
+| Current | Q3 2026 | Telegram intelligence + Smart Portfolio v1 live; per-project stats and narrative tracking in development |
+| Phase 1 | Q3–Q4 2026 | Per-project stats, Twitter integration, sentiment dashboard |
 | Phase 2 | Q4 2026, Q1 2027 | Full internet coverage, alpha alerts, cross-language intelligence |
 | Phase 3 | Q2, Q3 2027 | Developer API, narrative tracking, predictive signals |
 | Phase 4 | 2028+ | AI research assistant, ecosystem mapping, full predictive analytics |
@@ -200,9 +206,9 @@ Backtest sentiment signals against price action. Build custom models. Automate a
 
 ## Summary
 
-**Today:** AI-powered Telegram intelligence with categorization, spam filtering, and daily digests. Facts/opinions/emotions and bullish/bearish classification in active development.
+**Today:** AI-powered Telegram intelligence with categorization, spam filtering, daily digests, and Smart Portfolio project tracking. Facts/opinions/emotions tags live in digests; bullish/bearish and per-project stats in active development.
 
-**Q3 2026:** Project-level tracking across Telegram and Twitter. Sentiment dashboards. Watchlists. See what the market thinks about any project.
+**Q3–Q4 2026:** Per-project stats and narrative tracking. Twitter integration. Sentiment dashboards. See what the market thinks about any project.
 
 **Q4 2026 into 2027:** Full internet coverage. Alpha alerts. Cross-language intelligence. Developer API. Predictive signals.
 
@@ -216,4 +222,4 @@ Backtest sentiment signals against price action. Build custom models. Automate a
 
 **Alpha Track Team**
 
-*Version 4.0 | Last Updated: May 2026*
+*Version 4.1 | Last Updated: July 2026*

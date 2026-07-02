@@ -7,7 +7,7 @@ description: "The Crypto Intelligence Platform"
 
 **The Crypto Intelligence Platform**
 
-*Version 4.0 | May 2026*
+*Version 4.1 | July 2026*
 
 ---
 
@@ -149,9 +149,9 @@ We are not competing for existing market share. We are building a category that 
 
 ### Sustainable Economics
 
-**Free tier** provides core functionality. Track a limited number of projects, receive basic sentiment overviews, access daily digests. Intelligence should be accessible to everyone.
+**Free tier** provides core functionality. Track a limited number of projects, access daily digests from a curated market feed. Intelligence should be accessible to everyone. Every new account starts with a free month of Pro.
 
-**Premium tier** unlocks the full platform. Unlimited project tracking, real-time sentiment, advanced analytics, bullish/bearish conviction breakdowns, cross-platform analysis. Priced for individual crypto participants, not institutions.
+**Paid tiers (Pro and Premium)** unlock the full platform. More tracked projects, your own channel sources, per-message type tags, and — as they ship — advanced analytics, bullish/bearish conviction breakdowns, cross-platform analysis. Priced for individual crypto participants, not institutions.
 
 **Enterprise tier** serves funds, VCs, and projects. Custom integrations, team features, API access, dedicated support, volume pricing.
 
@@ -163,11 +163,11 @@ The philosophy: intelligence is infrastructure. Free tier ensures accessibility.
 
 ### Current State
 
-The Alpha Track intelligence pipeline is live. Users can connect Telegram channels, receive AI-categorized digests across multiple categories, and track the crypto landscape through personalized daily reports. Core infrastructure for collection, spam filtering, and categorization is proven and operational.
+The Alpha Track intelligence pipeline is live. Users track projects in a Smart Portfolio, connect Telegram channels, and receive AI-categorized digests — with every message classified by type (fact, opinion, emotion) and tagged inline. Core infrastructure for collection, spam filtering, classification, and project tracking is proven and operational.
 
 ### Coming Next
 
-Project-level tracking is the immediate priority. Full bullish/bearish sentiment analysis. Opinion vs emotion classification on live data. Twitter integration for cross-platform intelligence.
+Per-project depth is the immediate priority. Mention momentum and sentiment stats per tracked project. Narrative tracking. Full bullish/bearish sentiment analysis. Twitter integration for cross-platform intelligence.
 
 ### 2026 and 2027
 
@@ -216,4 +216,4 @@ For traders who need signal. For investors who need conviction data. For analyst
 **Alpha Track**
 *Intelligence for everyone.*
 
-*Version 4.0 | May 2026*
+*Version 4.1 | July 2026*

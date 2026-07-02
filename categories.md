@@ -9,7 +9,7 @@ description: "Choose the categories that matter to you and receive a personalize
 
 ---
 
-**How it works:** We scan thousands of messages from your Telegram channels and filter only what you actually need. Select your preferred categories and receive a personalized daily digest.
+**How it works:** We scan thousands of messages from our curated market feed and your own channels, and filter only what you actually need. Select your preferred categories and receive a personalized daily digest.
 
 ---
 
